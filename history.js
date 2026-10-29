@@ -9,6 +9,16 @@ const PODCAST_HISTORY = [
     "video_file": "podcast_ep1_20261026_052551.mp4",
     "thumbnail_file": "thumb_ep1_20261026_052551.jpg",
     "platform": "Local"
+  },
+  {
+    "episode": 2,
+    "topic": "Sekrety budowania intymności po latach razem",
+    "date": "2026-10-29T02:42:41.502722",
+    "duration_sec": 151.9,
+    "duration_min": 2.53,
+    "video_file": "podcast_ep2_20261029_024135.mp4",
+    "thumbnail_file": "thumb_ep2_20261029_024135.jpg",
+    "platform": "Facebook"
   }
 ];
 if (typeof module !== 'undefined' && module.exports) { module.exports = PODCAST_HISTORY; }
