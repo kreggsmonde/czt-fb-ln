@@ -1,0 +1,15 @@
+// Historia odcinków i rejestr tematów
+const PODCAST_HISTORY = [
+  {
+    "episode": 1,
+    "topic": "Sztuka słuchania się w związku",
+    "date": "2026-10-26T05:27:24.306497",
+    "duration_sec": 157.3,
+    "duration_min": 2.62,
+    "video_file": "podcast_ep1_20261026_052551.mp4",
+    "thumbnail_file": "thumb_ep1_20261026_052551.jpg",
+    "platform": "Local"
+  }
+];
+if (typeof module !== 'undefined' && module.exports) { module.exports = PODCAST_HISTORY; }
+if (typeof window !== 'undefined') { window.PODCAST_HISTORY = PODCAST_HISTORY; }
