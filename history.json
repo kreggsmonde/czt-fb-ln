@@ -18,5 +18,15 @@
     "video_file": "podcast_ep2_20261029_024135.mp4",
     "thumbnail_file": "thumb_ep2_20261029_024135.jpg",
     "platform": "Facebook"
+  },
+  {
+    "episode": 3,
+    "topic": "Granice w miłości: jak powiedzieć 'nie', by wzmocnić 'tak'",
+    "date": "2026-10-29T07:55:40.562308",
+    "duration_sec": 1166.75,
+    "duration_min": 19.45,
+    "video_file": "podcast_ep3_20261029_074410.mp4",
+    "thumbnail_file": "thumb_ep3_20261029_074410.jpg",
+    "platform": "Facebook"
   }
 ]
