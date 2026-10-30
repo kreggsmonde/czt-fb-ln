@@ -28,5 +28,15 @@
     "video_file": "podcast_ep3_20261029_074410.mp4",
     "thumbnail_file": "thumb_ep3_20261029_074410.jpg",
     "platform": "Facebook"
+  },
+  {
+    "episode": 4,
+    "topic": "Jak pielęgnować czułość, gdy codzienność przygniata?",
+    "date": "2026-10-30T08:10:43.943289",
+    "duration_sec": 1289.56,
+    "duration_min": 21.49,
+    "video_file": "podcast_ep4_20261030_075109.mp4",
+    "thumbnail_file": "thumb_ep4_20261030_075109.jpg",
+    "platform": "Facebook"
   }
 ]
