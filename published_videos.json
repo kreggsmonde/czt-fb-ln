@@ -38,5 +38,15 @@
     "video_file": "podcast_ep4_20261030_075109.mp4",
     "thumbnail_file": "thumb_ep4_20261030_075109.jpg",
     "platform": "Facebook"
+  },
+  {
+    "episode": 5,
+    "topic": "Sztuka odpuszczania: Kiedy miłość wymaga lekkości?",
+    "date": "2026-10-31T07:57:55.597505",
+    "duration_sec": 1235.6,
+    "duration_min": 20.59,
+    "video_file": "podcast_ep5_20261031_073855.mp4",
+    "thumbnail_file": "thumb_ep5_20261031_073855.jpg",
+    "platform": "Facebook"
   }
 ]
