@@ -49,6 +49,16 @@ const PODCAST_HISTORY = [
     "video_file": "podcast_ep5_20261031_073855.mp4",
     "thumbnail_file": "thumb_ep5_20261031_073855.jpg",
     "platform": "Facebook"
+  },
+  {
+    "episode": 6,
+    "topic": "Kiedy zranienia sięgają głęboko: sztuka prawdziwego pojednania",
+    "date": "2026-11-01T08:39:35.867312",
+    "duration_sec": 1334.56,
+    "duration_min": 22.24,
+    "video_file": "podcast_ep6_20261101_081846.mp4",
+    "thumbnail_file": "thumb_ep6_20261101_081846.jpg",
+    "platform": "Facebook"
   }
 ];
 if (typeof module !== 'undefined' && module.exports) { module.exports = PODCAST_HISTORY; }
