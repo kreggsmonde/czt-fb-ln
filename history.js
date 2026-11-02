@@ -59,6 +59,16 @@ const PODCAST_HISTORY = [
     "video_file": "podcast_ep6_20261101_081846.mp4",
     "thumbnail_file": "thumb_ep6_20261101_081846.jpg",
     "platform": "Facebook"
+  },
+  {
+    "episode": 7,
+    "topic": "Sztuka tworzenia wspólnej przyszłości: Jak marzyć razem, gdy życie niesie niespodzianki?",
+    "date": "2026-11-02T08:43:32.490788",
+    "duration_sec": 1305.54,
+    "duration_min": 21.76,
+    "video_file": "podcast_ep7_20261102_083122.mp4",
+    "thumbnail_file": "thumb_ep7_20261102_083122.jpg",
+    "platform": "Facebook"
   }
 ];
 if (typeof module !== 'undefined' && module.exports) { module.exports = PODCAST_HISTORY; }
