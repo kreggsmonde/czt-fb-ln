@@ -68,5 +68,15 @@
     "video_file": "podcast_ep7_20261102_083122.mp4",
     "thumbnail_file": "thumb_ep7_20261102_083122.jpg",
     "platform": "Facebook"
+  },
+  {
+    "episode": 8,
+    "topic": "Rozmowa, która nie rani: jak mówić prawdę z czułością",
+    "date": "2026-11-03T09:01:07.301299",
+    "duration_sec": 1247.22,
+    "duration_min": 20.79,
+    "video_file": "podcast_ep8_20261103_084500.mp4",
+    "thumbnail_file": "thumb_ep8_20261103_084500.jpg",
+    "platform": "Facebook"
   }
 ]
