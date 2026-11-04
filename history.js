@@ -79,6 +79,16 @@ const PODCAST_HISTORY = [
     "video_file": "podcast_ep8_20261103_084500.mp4",
     "thumbnail_file": "thumb_ep8_20261103_084500.jpg",
     "platform": "Facebook"
+  },
+  {
+    "episode": 9,
+    "topic": "Sztuka prośby w miłości: jak poprosić, by być wysłuchanym",
+    "date": "2026-11-04T08:33:12.573416",
+    "duration_sec": 1243.23,
+    "duration_min": 20.72,
+    "video_file": "podcast_ep9_20261104_081359.mp4",
+    "thumbnail_file": "thumb_ep9_20261104_081359.jpg",
+    "platform": "Facebook"
   }
 ];
 if (typeof module !== 'undefined' && module.exports) { module.exports = PODCAST_HISTORY; }
