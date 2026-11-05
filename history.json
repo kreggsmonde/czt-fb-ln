@@ -88,5 +88,15 @@
     "video_file": "podcast_ep9_20261104_081359.mp4",
     "thumbnail_file": "thumb_ep9_20261104_081359.jpg",
     "platform": "Facebook"
+  },
+  {
+    "episode": 10,
+    "topic": "Sztuka naprawiania rozmów: gdy w złości rośnie dystans",
+    "date": "2026-11-05T08:53:51.754942",
+    "duration_sec": 1284.52,
+    "duration_min": 21.41,
+    "video_file": "podcast_ep10_20261105_084008.mp4",
+    "thumbnail_file": "thumb_ep10_20261105_084008.jpg",
+    "platform": "Facebook"
   }
 ]
