@@ -109,6 +109,16 @@ const PODCAST_HISTORY = [
     "video_file": "podcast_ep11_20261106_091128.mp4",
     "thumbnail_file": "thumb_ep11_20261106_091128.jpg",
     "platform": "Facebook"
+  },
+  {
+    "episode": 12,
+    "topic": "Sztuka naprawiania bliskości, gdy przychodzi dystans",
+    "date": "2026-11-07T08:07:52.177092",
+    "duration_sec": 1268.46,
+    "duration_min": 21.14,
+    "video_file": "podcast_ep12_20261107_075519.mp4",
+    "thumbnail_file": "thumb_ep12_20261107_075519.jpg",
+    "platform": "Facebook"
   }
 ];
 if (typeof module !== 'undefined' && module.exports) { module.exports = PODCAST_HISTORY; }
