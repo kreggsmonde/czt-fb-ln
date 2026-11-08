@@ -119,6 +119,16 @@ const PODCAST_HISTORY = [
     "video_file": "podcast_ep12_20261107_075519.mp4",
     "thumbnail_file": "thumb_ep12_20261107_075519.jpg",
     "platform": "Facebook"
+  },
+  {
+    "episode": 13,
+    "topic": "Sztuka czułego negocjowania: jak rozmawiać, gdy oboje macie rację",
+    "date": "2026-11-08T08:33:57.560894",
+    "duration_sec": 1302.88,
+    "duration_min": 21.71,
+    "video_file": "podcast_ep13_20261108_081238.mp4",
+    "thumbnail_file": "thumb_ep13_20261108_081238.jpg",
+    "platform": "Facebook"
   }
 ];
 if (typeof module !== 'undefined' && module.exports) { module.exports = PODCAST_HISTORY; }
