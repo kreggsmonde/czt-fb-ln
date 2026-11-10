@@ -138,5 +138,15 @@
     "video_file": "podcast_ep14_20261109_084803.mp4",
     "thumbnail_file": "thumb_ep14_20261109_084803.jpg",
     "platform": "Facebook"
+  },
+  {
+    "episode": 15,
+    "topic": "Miłość bez utraty siebie: jak stawiać granice czułością",
+    "date": "2026-11-10T09:16:17.096665",
+    "duration_sec": 1287.25,
+    "duration_min": 21.45,
+    "video_file": "podcast_ep15_20261110_090053.mp4",
+    "thumbnail_file": "thumb_ep15_20261110_090053.jpg",
+    "platform": "Facebook"
   }
 ]
