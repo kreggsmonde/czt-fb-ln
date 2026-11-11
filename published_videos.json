@@ -148,5 +148,15 @@
     "video_file": "podcast_ep15_20261110_090053.mp4",
     "thumbnail_file": "thumb_ep15_20261110_090053.jpg",
     "platform": "Facebook"
+  },
+  {
+    "episode": 16,
+    "topic": "Sztuka odpoczywania razem: jak budować bliskość bez presji",
+    "date": "2026-11-11T08:53:16.023450",
+    "duration_sec": 1259.0,
+    "duration_min": 20.98,
+    "video_file": "podcast_ep16_20261111_083252.mp4",
+    "thumbnail_file": "thumb_ep16_20261111_083252.jpg",
+    "platform": "Facebook"
   }
 ]
