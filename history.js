@@ -159,6 +159,16 @@ const PODCAST_HISTORY = [
     "video_file": "podcast_ep16_20261111_083252.mp4",
     "thumbnail_file": "thumb_ep16_20261111_083252.jpg",
     "platform": "Facebook"
+  },
+  {
+    "episode": 17,
+    "topic": "Sztuka bliskości po zawieszeniu: jak wracać do siebie, gdy nie wiadomo, od czego zacząć",
+    "date": "2026-11-12T09:13:58.144201",
+    "duration_sec": 1225.81,
+    "duration_min": 20.43,
+    "video_file": "podcast_ep17_20261112_085514.mp4",
+    "thumbnail_file": "thumb_ep17_20261112_085514.jpg",
+    "platform": "Facebook"
   }
 ];
 if (typeof module !== 'undefined' && module.exports) { module.exports = PODCAST_HISTORY; }
