@@ -168,5 +168,15 @@
     "video_file": "podcast_ep17_20261112_085514.mp4",
     "thumbnail_file": "thumb_ep17_20261112_085514.jpg",
     "platform": "Facebook"
+  },
+  {
+    "episode": 18,
+    "topic": "Sztuka miękkich powrotów: jak naprawiać więź po drobnych pęknięciach",
+    "date": "2026-11-13T09:11:43.920257",
+    "duration_sec": 1305.47,
+    "duration_min": 21.76,
+    "video_file": "podcast_ep18_20261113_085144.mp4",
+    "thumbnail_file": "thumb_ep18_20261113_085144.jpg",
+    "platform": "Facebook"
   }
 ]
