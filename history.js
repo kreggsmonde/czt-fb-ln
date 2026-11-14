@@ -179,6 +179,16 @@ const PODCAST_HISTORY = [
     "video_file": "podcast_ep18_20261113_085144.mp4",
     "thumbnail_file": "thumb_ep18_20261113_085144.jpg",
     "platform": "Facebook"
+  },
+  {
+    "episode": 19,
+    "topic": "Sztuka bezpieczeństwa: jak budować związek, w którym chce się wracać",
+    "date": "2026-11-14T08:34:13.191338",
+    "duration_sec": 1257.83,
+    "duration_min": 20.96,
+    "video_file": "podcast_ep19_20261114_081435.mp4",
+    "thumbnail_file": "thumb_ep19_20261114_081435.jpg",
+    "platform": "Facebook"
   }
 ];
 if (typeof module !== 'undefined' && module.exports) { module.exports = PODCAST_HISTORY; }
