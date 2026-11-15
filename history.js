@@ -189,6 +189,16 @@ const PODCAST_HISTORY = [
     "video_file": "podcast_ep19_20261114_081435.mp4",
     "thumbnail_file": "thumb_ep19_20261114_081435.jpg",
     "platform": "Facebook"
+  },
+  {
+    "episode": 20,
+    "topic": "Sztuka czułego dystansu: kiedy się odchodzi, by nie ranić",
+    "date": "2026-11-15T08:49:29.872627",
+    "duration_sec": 1319.08,
+    "duration_min": 21.98,
+    "video_file": "podcast_ep20_20261115_083342.mp4",
+    "thumbnail_file": "thumb_ep20_20261115_083342.jpg",
+    "platform": "Facebook"
   }
 ];
 if (typeof module !== 'undefined' && module.exports) { module.exports = PODCAST_HISTORY; }
