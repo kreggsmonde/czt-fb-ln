@@ -198,5 +198,15 @@
     "video_file": "podcast_ep20_20261115_083342.mp4",
     "thumbnail_file": "thumb_ep20_20261115_083342.jpg",
     "platform": "Facebook"
+  },
+  {
+    "episode": 21,
+    "topic": "Sztuka naprawiania siebie po kłótni: gdy wstyd mówi „uciekaj”",
+    "date": "2026-11-16T08:59:20.510010",
+    "duration_sec": 1210.21,
+    "duration_min": 20.17,
+    "video_file": "podcast_ep21_20261116_084318.mp4",
+    "thumbnail_file": "thumb_ep21_20261116_084318.jpg",
+    "platform": "Facebook"
   }
 ]
