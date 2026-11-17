@@ -208,5 +208,15 @@
     "video_file": "podcast_ep21_20261116_084318.mp4",
     "thumbnail_file": "thumb_ep21_20261116_084318.jpg",
     "platform": "Facebook"
+  },
+  {
+    "episode": 22,
+    "topic": "Sztuka czułego domykania: jak kończyć rozmowy, by nie pozostawały rany",
+    "date": "2026-11-17T10:13:03.788047",
+    "duration_sec": 1356.23,
+    "duration_min": 22.6,
+    "video_file": "podcast_ep22_20261117_095123.mp4",
+    "thumbnail_file": "thumb_ep22_20261117_095123.jpg",
+    "platform": "Facebook"
   }
 ]
