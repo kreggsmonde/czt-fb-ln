@@ -219,6 +219,16 @@ const PODCAST_HISTORY = [
     "video_file": "podcast_ep22_20261117_095123.mp4",
     "thumbnail_file": "thumb_ep22_20261117_095123.jpg",
     "platform": "Facebook"
+  },
+  {
+    "episode": 23,
+    "topic": "Sztuka przepraszania, które goi: jak brać odpowiedzialność bez gaszenia siebie",
+    "date": "2026-11-18T09:36:15.727496",
+    "duration_sec": 1260.95,
+    "duration_min": 21.02,
+    "video_file": "podcast_ep23_20261118_092332.mp4",
+    "thumbnail_file": "thumb_ep23_20261118_092332.jpg",
+    "platform": "Facebook"
   }
 ];
 if (typeof module !== 'undefined' && module.exports) { module.exports = PODCAST_HISTORY; }
