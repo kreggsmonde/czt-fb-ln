@@ -228,5 +228,15 @@
     "video_file": "podcast_ep23_20261118_092332.mp4",
     "thumbnail_file": "thumb_ep23_20261118_092332.jpg",
     "platform": "Facebook"
+  },
+  {
+    "episode": 24,
+    "topic": "Sztuka czułej szczerości: jak mówić trudne rzeczy bez odcinania bliskości",
+    "date": "2026-11-19T09:53:25.707765",
+    "duration_sec": 1266.15,
+    "duration_min": 21.1,
+    "video_file": "podcast_ep24_20261119_093646.mp4",
+    "thumbnail_file": "thumb_ep24_20261119_093646.jpg",
+    "platform": "Facebook"
   }
 ]
