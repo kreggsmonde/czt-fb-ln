@@ -239,6 +239,16 @@ const PODCAST_HISTORY = [
     "video_file": "podcast_ep24_20261119_093646.mp4",
     "thumbnail_file": "thumb_ep24_20261119_093646.jpg",
     "platform": "Facebook"
+  },
+  {
+    "episode": 25,
+    "topic": "Sekrety więzi emocjonalnej",
+    "date": "2026-11-20T09:39:44.947938",
+    "duration_sec": 1250.32,
+    "duration_min": 20.84,
+    "video_file": "podcast_ep25_20261120_091941.mp4",
+    "thumbnail_file": "thumb_ep25_20261120_091941.jpg",
+    "platform": "Facebook"
   }
 ];
 if (typeof module !== 'undefined' && module.exports) { module.exports = PODCAST_HISTORY; }
