@@ -248,5 +248,15 @@
     "video_file": "podcast_ep25_20261120_091941.mp4",
     "thumbnail_file": "thumb_ep25_20261120_091941.jpg",
     "platform": "Facebook"
+  },
+  {
+    "episode": 26,
+    "topic": "Sztuka czułego proszenia o bliskość: gdy tęsknota mówi „wróć”",
+    "date": "2026-11-21T09:07:20.313984",
+    "duration_sec": 1298.36,
+    "duration_min": 21.64,
+    "video_file": "podcast_ep26_20261121_085516.mp4",
+    "thumbnail_file": "thumb_ep26_20261121_085516.jpg",
+    "platform": "Facebook"
   }
 ]
