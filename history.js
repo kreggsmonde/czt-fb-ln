@@ -259,6 +259,16 @@ const PODCAST_HISTORY = [
     "video_file": "podcast_ep26_20261121_085516.mp4",
     "thumbnail_file": "thumb_ep26_20261121_085516.jpg",
     "platform": "Facebook"
+  },
+  {
+    "episode": 27,
+    "topic": "Sztuka miękkiej naprawy: gdy jedno słowo potrafi zaboleć",
+    "date": "2026-11-22T09:16:26.666148",
+    "duration_sec": 1274.77,
+    "duration_min": 21.25,
+    "video_file": "podcast_ep27_20261122_085730.mp4",
+    "thumbnail_file": "thumb_ep27_20261122_085730.jpg",
+    "platform": "Facebook"
   }
 ];
 if (typeof module !== 'undefined' && module.exports) { module.exports = PODCAST_HISTORY; }
