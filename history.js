@@ -279,6 +279,16 @@ const PODCAST_HISTORY = [
     "video_file": "podcast_ep28_20261123_095622.mp4",
     "thumbnail_file": "thumb_ep28_20261123_095622.jpg",
     "platform": "Facebook"
+  },
+  {
+    "episode": 29,
+    "topic": "Sztuka łagodnego mówienia „zauważyłam” — jak rozmawiać o potrzebach bez oskarżeń",
+    "date": "2026-11-24T12:03:12.683704",
+    "duration_sec": 1255.71,
+    "duration_min": 20.93,
+    "video_file": "podcast_ep29_20261124_114410.mp4",
+    "thumbnail_file": "thumb_ep29_20261124_114410.jpg",
+    "platform": "Facebook"
   }
 ];
 if (typeof module !== 'undefined' && module.exports) { module.exports = PODCAST_HISTORY; }
