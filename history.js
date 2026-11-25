@@ -289,6 +289,16 @@ const PODCAST_HISTORY = [
     "video_file": "podcast_ep29_20261124_114410.mp4",
     "thumbnail_file": "thumb_ep29_20261124_114410.jpg",
     "platform": "Facebook"
+  },
+  {
+    "episode": 30,
+    "topic": "Sztuka miękkiego rozpoczynania rozmów: jak mówić „daj mi chwilę”, by nie gasnąć",
+    "date": "2026-11-25T10:51:24.730880",
+    "duration_sec": 1359.59,
+    "duration_min": 22.66,
+    "video_file": "podcast_ep30_20261125_103757.mp4",
+    "thumbnail_file": "thumb_ep30_20261125_103757.jpg",
+    "platform": "Facebook"
   }
 ];
 if (typeof module !== 'undefined' && module.exports) { module.exports = PODCAST_HISTORY; }
