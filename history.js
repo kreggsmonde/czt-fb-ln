@@ -299,6 +299,16 @@ const PODCAST_HISTORY = [
     "video_file": "podcast_ep30_20261125_103757.mp4",
     "thumbnail_file": "thumb_ep30_20261125_103757.jpg",
     "platform": "Facebook"
+  },
+  {
+    "episode": 31,
+    "topic": "Sztuka czułego dopytywania: jak prosić o jasność, żeby nie rosnął dystans",
+    "date": "2026-11-26T10:40:53.641875",
+    "duration_sec": 1199.7,
+    "duration_min": 19.99,
+    "video_file": "podcast_ep31_20261126_102609.mp4",
+    "thumbnail_file": "thumb_ep31_20261126_102609.jpg",
+    "platform": "Facebook"
   }
 ];
 if (typeof module !== 'undefined' && module.exports) { module.exports = PODCAST_HISTORY; }
