@@ -308,5 +308,15 @@
     "video_file": "podcast_ep31_20261126_102609.mp4",
     "thumbnail_file": "thumb_ep31_20261126_102609.jpg",
     "platform": "Facebook"
+  },
+  {
+    "episode": 32,
+    "topic": "Sztuka czułego dopytywania: jak prosić o kontakt, gdy brakuje bliskości",
+    "date": "2026-11-27T10:30:00.097881",
+    "duration_sec": 1255.38,
+    "duration_min": 20.92,
+    "video_file": "podcast_ep32_20261127_101438.mp4",
+    "thumbnail_file": "thumb_ep32_20261127_101438.jpg",
+    "platform": "Facebook"
   }
 ]
