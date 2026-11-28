@@ -319,6 +319,16 @@ const PODCAST_HISTORY = [
     "video_file": "podcast_ep32_20261127_101438.mp4",
     "thumbnail_file": "thumb_ep32_20261127_101438.jpg",
     "platform": "Facebook"
+  },
+  {
+    "episode": 33,
+    "topic": "Sztuka czułego zaczepienia: jak inicjować bliskość, kiedy trudno zacząć",
+    "date": "2026-11-28T09:52:54.943659",
+    "duration_sec": 1238.34,
+    "duration_min": 20.64,
+    "video_file": "podcast_ep33_20261128_093311.mp4",
+    "thumbnail_file": "thumb_ep33_20261128_093311.jpg",
+    "platform": "Local"
   }
 ];
 if (typeof module !== 'undefined' && module.exports) { module.exports = PODCAST_HISTORY; }
